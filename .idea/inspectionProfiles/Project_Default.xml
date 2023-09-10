@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="handlers" />
+          <option value="aiogram.contrib" />
+          <option value="aiogram.utils.executor" />
+          <option value="aiogram.dispatcher.*" />
+          <option value="aiogram.utils.emoji" />
+          <option value="aiogram.types.ParseMode" />
+          <option value="aiogram.types.ChatActions" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
